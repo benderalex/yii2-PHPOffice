@@ -1,12 +1,10 @@
 {
 
   "name": "benderalex/yii2-phpoffice",
-
-
   "type": "yii2-extension",
 
-  "description": "PHP Office for ",
-  "keywords": ["yii2", "imagine", "image", "helper"],
+  "description": "PHP Office for yii2",
+  "keywords": ["yii2", "PHP Excel", "image", "helper"],
   "license": "BSD-3-Clause",
   "support": {
     "source": "https://github.com/benderalex"
@@ -23,8 +21,6 @@
 
 
   "autoload": {
-    "psr-4": {
-      "phpoffice\\": ""
-    }
+    "psr-4": { "benderalex\\phpoffice\\": "" }
   }
 }
