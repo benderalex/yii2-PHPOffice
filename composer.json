@@ -1,0 +1,32 @@
+{
+  // package name
+  "name": "benderalex/yii2-phpoffice",
+
+  // package type
+  "type": "yii2-extension",
+
+  "description": "PHP Office for ",
+  "keywords": ["yii2", "imagine", "image", "helper"],
+  "license": "BSD-3-Clause",
+  "support": {
+      "source": "https://github.com/benderalex"
+  },
+  "authors": [
+    {
+      "name": "Alex Bender",
+      "email": "benderalex5@gmail.com"
+    }
+  ],
+
+  // package dependencies
+  "require": {
+    "yiisoft/yii2": "~2.0.0",
+  },
+
+  // class autoloading specs
+  "autoload": {
+    "psr-4": {
+      "phpoffice\\": ""
+    }
+  }
+}
