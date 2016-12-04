@@ -1,8 +1,8 @@
 {
-  // package name
+
   "name": "benderalex/yii2-phpoffice",
 
-  // package type
+
   "type": "yii2-extension",
 
   "description": "PHP Office for ",
@@ -18,12 +18,12 @@
     }
   ],
 
-  // package dependencies
+
   "require": {
     "yiisoft/yii2": "~2.0.0",
   },
 
-  // class autoloading specs
+  
   "autoload": {
     "psr-4": {
       "phpoffice\\": ""
