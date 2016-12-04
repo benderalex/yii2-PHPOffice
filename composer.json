@@ -9,21 +9,19 @@
   "keywords": ["yii2", "imagine", "image", "helper"],
   "license": "BSD-3-Clause",
   "support": {
-      "source": "https://github.com/benderalex"
+    "source": "https://github.com/benderalex"
   },
-  "authors": [
-    {
-      "name": "Alex Bender",
-      "email": "benderalex5@gmail.com"
-    }
-  ],
+  "authors": [{
+    "name": "Alex Bender",
+    "email": "benderalex5@gmail.com"
+  }],
 
 
   "require": {
-    "yiisoft/yii2": "~2.0.0",
+    "yiisoft/yii2": "~2.0.0"
   },
 
-  
+
   "autoload": {
     "psr-4": {
       "phpoffice\\": ""
